@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    background-color: #211d4f;
+    flex-direction: column;
+}
+.container-div{
+    display: flex;
+    flex-direction: column;
+    border: solid white 2px;
+    margin: 10px
+}
+.img-size{
+    height:25%;
+    width:25%;
+}
+.germania-one-regular {
+    font-family: "Germania One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: White;
+  }
+  
